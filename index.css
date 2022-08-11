@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+	font-family: Montserrat;
+}
+
+#landing{
+	
+	background-image: url(./images/background-landing.jpeg);
+	background-color: #2C3639;
+}
+
+#about-me{
+	background-color: rgba(44, 54, 57,0.7);
+}
+
+#projects{
+	background-color: #2C3639;
+}
+
+#tools, #footer	{
+	background-color: #3F4E4F;
+}
+
+#contact{
+	background-color: #2C3639;
+}
+
+#form{
+	background-color: #3F4E4F;
+}
+
+#proj-1, #proj-2, #proj-3{
+	background-color: #3F4E4F;
+}
+
+.navbar{
+	background-color: background-color: rgba(63, 78, 79, 0.05);
+}
+
+#navbarBar{
+	margin-left: auto;
+}
+
+
+
+
+
